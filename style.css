@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    line-height: 1.4em;
+}
+
+main {
+    border: 2px solid black;
+    width: 60%;
+    margin: 1em auto;
+}
+
+.container {
+    margin: 4em;
+}
+
+#horix-line {
+    border: 2px solid black;
+}
+
+.container-h1 {
+    color: rgb(115, 171, 30);
+}
+
+.active-style {
+    font-size: 23px;
+    color: rgb(38, 87, 185);
+}
+
+#active-span {
+    line-height: 2rem;
+}
